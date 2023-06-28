@@ -1,0 +1,27 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "Static recipe site",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "generate-pwa-assets": "pwa-assets-generator",
+    "get-recipes": "tsc && node ./get-recipes.js",
+    "predev": "npm run get-recipes",
+    "dev": "vitepress dev cookbook",
+    "prebuild": "npm run get-recipes",
+    "build": "vitepress build cookbook",
+    "preview": "vitepress preview cookbook",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philipp B.",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.0",
+    "@vite-pwa/assets-generator": "^0.0.3",
+    "@vite-pwa/vitepress": "^0.2.0",
+    "typescript": "^5.1.3",
+    "vitepress": "^1.0.0-beta.3",
+    "vue": "^3.3.4"
+  }
+}
