@@ -1,6 +1,6 @@
 # Bündner Nusstorte
 
-Der Klassiker unter den Nusstorten. Die Bündner Nusstorte ist eine der beliebtesten Nusstorten der Schweiz. Sie ist sehr einfach zuzubereiten und schmeckt einfach köstlich.
+Der Klassiker unter den Nusstorten. Die Bündner Nusstorte ist eine der beliebtesten Nusstorten der Schweiz. Sie ist einfach zuzubereiten und schmeckt einfach köstlich.
 
 ## Zutaten
 
@@ -32,7 +32,7 @@ Der Klassiker unter den Nusstorten. Die Bündner Nusstorte ist eine der beliebte
 
 ### Backen
 
-1. Zweitunterste Rille, Umluft 180°C, 27 Minuten backen, danach noch 3 Minuten im ausgeschalteten Backofen stehen lassen
+1. Zweitunterste Rille, Umluft 180 °C, 27 Minuten backen, danach noch 3 Minuten im ausgeschalteten Backofen stehen lassen
 2. Nach Backen Springformrand entfernen. Erst, wenn die Torte vollständig abgekühlt ist, aus der Form lösen und auf einem Kuchengitter auskühlen lassen
 
 A Guata!

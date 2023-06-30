@@ -20,4 +20,4 @@
 3. Mehl unterrühren
 4. Haselnüsse unterheben
 5. Teig in ein eingefettetes Backblech geben, glatt streichen und mit dem übrig gebliebenen Eigelb bestreichen
-6. Im vorgeheizten Backofen bei 200°C während 17 Minuten backen, danach noch 10 Minuten im ausgeschalteten Backofen stehen lassen
+6. Im vorgeheizten Backofen bei 200 °C während 17 Minuten backen, danach noch 10 Minuten im ausgeschalteten Backofen stehen lassen
