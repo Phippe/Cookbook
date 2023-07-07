@@ -1,6 +1,6 @@
 # Kürbissuppe mit Kartoffeln
 
-Ursprüngliches Rezept von [GuteKueche.at](https://www.gutekueche.at/kuerbiscremesuppe-mit-kartoffeln-rezept-22282).
+Von [GuteKueche.at](https://www.gutekueche.at/kuerbiscremesuppe-mit-kartoffeln-rezept-22282)
 
 ## Zutaten
 

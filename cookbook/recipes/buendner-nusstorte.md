@@ -4,13 +4,21 @@ Der Klassiker unter den Nusstorten. Die Bündner Nusstorte ist eine der beliebte
 
 ## Zutaten
 
+### Für den Mürbeteig
+
 | Menge | Zutat |
 | --- | --- |
 | 400 g | Mehl |
 | 200 g | Margarine |
-| 200 g + 300 g | Zucker |
+| 200 g | Zucker |
 | 1 | Ei |
 | 1 Prise | Salz |
+
+### Für die Füllung
+
+| Menge | Zutat |
+| --- | --- |
+| 300 g | Zucker |
 | 100 g | Walnüsse |
 | 150 g | Pekannüsse |
 | 180 ml | Halbrahm |
