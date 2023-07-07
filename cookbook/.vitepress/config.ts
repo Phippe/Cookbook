@@ -18,7 +18,7 @@ export default withPwa(
         head: [
             [
                 "link",
-                { rel: "apple-touch-icon", href: "assets/apple-touch-icon-180x180.png" }
+                { rel: "apple-touch-icon", href: "/cookbook/assets/apple-touch-icon-180x180.png" }
             ],
             [
                 "link",
@@ -28,7 +28,7 @@ export default withPwa(
                     color: "#5bbad5"
                 }
             ],
-            ["link", { rel: "shortcut icon", href: "assets/favicon.ico" }],
+            ["link", { rel: "shortcut icon", href: "/cookbook/assets/favicon.ico" }],
             ["meta", { name: "msapplication-TileColor", content: "#da532c" }]
         ],
         pwa: {
@@ -41,17 +41,17 @@ export default withPwa(
                 display: "standalone",
                 icons: [
                     {
-                        src: "assets/pwa-64x64.png",
+                        src: "/cookbook/assets/pwa-64x64.png",
                         sizes: "64x64",
                         type: "image/png"
                     },
                     {
-                        src: "assets/pwa-192x192.png",
+                        src: "/cookbook/assets/pwa-192x192.png",
                         sizes: "192x192",
                         type: "image/png"
                     },
                     {
-                        src: "assets/pwa-512x512.png",
+                        src: "/cookbook/assets/pwa-512x512.png",
                         sizes: "512x512",
                         type: "image/png"
                     }
