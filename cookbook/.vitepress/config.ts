@@ -8,7 +8,7 @@ export default withPwa(
     description: "Just playing around.",
     cleanUrls: true,
     themeConfig: {
-      logo: "/assets/logo.jpg",
+      logo: "/assets/logo.png",
       nav: [
         { text: "Startseite", link: "/" },
         { text: "Über", link: "/about" }
@@ -44,7 +44,7 @@ export default withPwa(
         name: "Ein Rezeptbuch",
         short_name: "Rezeptbuch",
         description: "Ein Rezeptbuch für alle Fälle",
-        theme_color: "#42c5f5",
+        theme_color: "#ff9900",
         background_color: "#42f5bc",
         display: "standalone",
         icons: [

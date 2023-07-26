@@ -1,9 +1,9 @@
 import {
   defineConfig,
-  minimalPreset as preset,
+  minimalPreset as preset
 } from "@vite-pwa/assets-generator/config";
 
 export default defineConfig({
   preset,
-  images: ["cookbook/public/assets/logo.jpg"],
+  images: ["cookbook/public/assets/logo.png"]
 });
