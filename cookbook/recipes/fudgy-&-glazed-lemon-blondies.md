@@ -1,6 +1,6 @@
 # Fudgy & Glazed Lemon Blondies
 
-Von [u/Byssine](https://www.reddit.com/r/food/comments/sjj47w/comment/hvf9bmm/?utm_content=1&utm_term=22&context=3), bzw. [How Tasty](https://www.how-tasty.com/lemon-brownies-lemonies/)
+Von [u/Byssine](https://www.reddit.com/r/food/comments/sjj47w/comment/hvf9bmm/), bzw. [How Tasty](https://www.how-tasty.com/lemon-brownies-lemonies/)
 
 ![Lemon Blondies](/assets/images/lemon-blondies.jpg)
 
